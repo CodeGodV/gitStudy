@@ -1,3 +1,6 @@
-# gitStudy
+# gitStud
 
-## train branch
+## train second
+## train third
+>>>>>>> train
+
